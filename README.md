@@ -1,2 +1,3 @@
-# abhishek-demo
-this is my first gift repository
+# Abhishek-demo
+This is my first gift repository
+Author-Abhishek singh
